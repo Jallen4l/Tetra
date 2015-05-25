@@ -1,0 +1,225 @@
+Preparing to process Geezard	1	4	5	1	1	./img/TTGeezard.png
+Loaded ./img/TTGeezard.png
+Preparing to process Fungar	5	1	1	3	1	./img/TTFungar.png
+Loaded ./img/TTFungar.png
+Preparing to process Bite_Bug	1	3	3	5	1	./img/TTBite_Bug.png
+Loaded ./img/TTBite_Bug.png
+Preparing to process Red_Bat	6	1	1	2	1	./img/TTRed_Bat.png
+Loaded ./img/TTRed_Bat.png
+Preparing to process Blobra	2	3	1	5	1	./img/TTBlobra.png
+Loaded ./img/TTBlobra.png
+Preparing to process Gayla 2	1	4	4	1	./img/TTGayla.png
+Loaded ./img/TTGayla.png
+Preparing to process Gesper	1	5	4	1	1	./img/TTGesper.png
+Loaded ./img/TTGesper.png
+Preparing to process Fastitocalon-F	3	5	2	1	1	./img/TTFastitocalon-F.png
+Loaded ./img/TTFastitocalon-F.png
+Preparing to process Blood_Soul	2	1	6	1	1	./img/TTBlood_Soul.png
+Loaded ./img/TTBlood_Soul.png
+Preparing to process Caterchipillar	4	2	4	3	1	./img/TTCaterchipillar.png
+Loaded ./img/TTCaterchipillar.png
+Preparing to process Cockatrice	6	1	2	6	1	./img/TTCockatrice.png
+Loaded ./img/TTCockatrice.png
+Preparing to process Grat	7	1	3	1	2	./img/TTGrat.png
+Loaded ./img/TTGrat.png
+Preparing to process Buel	6	2	2	3	2	./img/TTBuel.png
+Loaded ./img/TTBuel.png
+Preparing to process Mesmerize	5	3	3	4	2	./img/TTMesmerize.png
+Loaded ./img/TTMesmerize.png
+Preparing to process Glacial_Eye	6	1	4	3	2	./img/TTGlacial_Eye.png
+Loaded ./img/TTGlacial_Eye.png
+Preparing to process Belhelmel	3	4	5	3	2	./img/TTBelhelmel.png
+Loaded ./img/TTBelhelmel.png
+Preparing to process Thrustaevis	5	3	2	5	2	./img/TTThrustaevis.png
+Loaded ./img/TTThrustaevis.png
+Preparing to process Anacondaur	5	1	3	5	2	./img/TTAnacondaur.png
+Loaded ./img/TTAnacondaur.png
+Preparing to process Creeps	5	2	5	2	2	./img/TTCreeps.png
+Loaded ./img/TTCreeps.png
+Preparing to process Grendel	4	4	5	2	2	./img/TTGrendel.png
+Loaded ./img/TTGrendel.png
+Preparing to process Jelleye	3	2	1	7	2	./img/TTJelleye.png
+Loaded ./img/TTJelleye.png
+Preparing to process Grand_Mantis	5	2	5	3	2	./img/TTGrand_Mantis.png
+Loaded ./img/TTGrand_Mantis.png
+Preparing to process Forbidden	6	6	3	2	3	./img/TTForbidden.png
+Loaded ./img/TTForbidden.png
+Preparing to process Armadodo	6	3	1	6	3	./img/TTArmadodo.png
+Loaded ./img/TTArmadodo.png
+Preparing to process TriFace	3	5	5	5	3	./img/TTTriFace.png
+Loaded ./img/TTTriFace.png
+Preparing to process Fastitocalon	7	5	1	3	3	./img/TTFastitocalon.png
+Loaded ./img/TTFastitocalon.png
+Preparing to process Snow_Lion	7	1	5	3	3	./img/TTSnow_Lion.png
+Loaded ./img/TTSnow_Lion.png
+Preparing to process Ochu	5	6	3	3	3	./img/TTOchu.png
+Loaded ./img/TTOchu.png
+Preparing to process SAM08G	5	6	2	4	3	./img/TTSAM08G.png
+Loaded ./img/TTSAM08G.png
+Preparing to process Death_Claw	4	4	7	2	3	./img/TTDeath_Claw.png
+Loaded ./img/TTDeath_Claw.png
+Preparing to process Cactuar	6	2	6	3	3	./img/TTCactuar.png
+Loaded ./img/TTCactuar.png
+Preparing to process Tonberry	3	6	4	4	3	./img/TTTonberry.png
+Loaded ./img/TTTonberry.png
+Preparing to process Abyss_Worm	7	2	3	5	3	./img/TTAbyss_Worm.png
+Loaded ./img/TTAbyss_Worm.png
+Preparing to process Turtapod	2	3	6	7	4	./img/TTTurtapod.png
+Loaded ./img/TTTurtapod.png
+Preparing to process Vysage	6	5	4	5	4	./img/TTVysage.png
+Loaded ./img/TTVysage.png
+Preparing to process T-Rexaur	4	6	2	7	4	./img/TTT-Rexaur.png
+Loaded ./img/TTT-Rexaur.png
+Preparing to process Bomb	2	7	6	3	4	./img/TTBomb.png
+Loaded ./img/TTBomb.png
+Preparing to process Blitz	1	6	4	7	4	./img/TTBlitz.png
+Loaded ./img/TTBlitz.png
+Preparing to process Wendigo	7	3	1	6	4	./img/TTWendigo.png
+Loaded ./img/TTWendigo.png
+Preparing to process Torama	7	4	4	4	4	./img/TTTorama.png
+Loaded ./img/TTTorama.png
+Preparing to process Imp	3	7	3	6	4	./img/TTImp.png
+Loaded ./img/TTImp.png
+Preparing to process Blue_Dragon	6	2	7	3	4	./img/TTBlue_Dragon.png
+Loaded ./img/TTBlue_Dragon.png
+Preparing to process Adamantoise	4	5	5	6	4	./img/TTAdamantoise.png
+Loaded ./img/TTAdamantoise.png
+Preparing to process Hexadragon	7	5	4	3	4	./img/TTHexadragon.png
+Loaded ./img/TTHexadragon.png
+Preparing to process Iron_Giant	6	5	6	5	5	./img/TTIron_Giant.png
+Loaded ./img/TTIron_Giant.png
+Preparing to process Behemoth	3	6	5	7	5	./img/TTBehemoth.png
+Loaded ./img/TTBehemoth.png
+Preparing to process Chimera	7	6	5	3	5	./img/TTChimera.png
+Loaded ./img/TTChimera.png
+Preparing to process PuPu	3	10	2	1	5	./img/TTPuPu.png
+Loaded ./img/TTPuPu.png
+Preparing to process Elastoid	6	2	6	7	5	./img/TTElastoid.png
+Loaded ./img/TTElastoid.png
+Preparing to process GIM47N	5	5	7	4	5	./img/TTGIM47N.png
+Loaded ./img/TTGIM47N.png
+Preparing to process Malboro	7	7	4	2	5	./img/TTMalboro.png
+Loaded ./img/TTMalboro.png
+Preparing to process Ruby_Dragon	7	2	7	4	5	./img/TTRuby_Dragon.png
+Loaded ./img/TTRuby_Dragon.png
+Preparing to process Elnoyle	5	3	7	6	5	./img/TTElnoyle.png
+Loaded ./img/TTElnoyle.png
+Preparing to process Tonberry_King	4	6	7	4	5	./img/TTTonberry_King.png
+Loaded ./img/TTTonberry_King.png
+Preparing to process Wedge,_Biggs	6	6	2	7	5	./img/TTWedge,_Biggs.png
+Loaded ./img/TTWedge,_Biggs.png
+Preparing to process Fujin,_Raijin	2	8	8	4	6	./img/TTFujin,_Raijin.png
+Loaded ./img/TTFujin,_Raijin.png
+Preparing to process Elvoret	7	8	3	4	6	./img/TTElvoret.png
+Loaded ./img/TTElvoret.png
+Preparing to process X-ATM092	4	8	4	3	6	./img/TTX-ATM092.png
+Loaded ./img/TTX-ATM092.png
+Preparing to process Granaldo	7	2	8	5	6	./img/TTGranaldo.png
+Loaded ./img/TTGranaldo.png
+Preparing to process Gerogero	1	8	8	3	6	./img/TTGerogero.png
+Loaded ./img/TTGerogero.png
+Preparing to process Iguion	8	2	8	2	6	./img/TTIguion.png
+Loaded ./img/TTIguion.png
+Preparing to process Abadon	6	8	4	5	6	./img/TTAbadon.png
+Loaded ./img/TTAbadon.png
+Preparing to process Trauma	4	8	5	6	6	./img/TTTrauma.png
+Loaded ./img/TTTrauma.png
+Preparing to process Oilboyle	1	8	4	8	6	./img/TTOilboyle.png
+Loaded ./img/TTOilboyle.png
+Preparing to process Shumi_Tribe	6	5	8	4	6	./img/TTShumi_Tribe.png
+Loaded ./img/TTShumi_Tribe.png
+Preparing to process Krysta	7	5	8	1	6	./img/TTKrysta.png
+Loaded ./img/TTKrysta.png
+Preparing to process Propagator	8	4	4	8	7	./img/TTPropagator.png
+Loaded ./img/TTPropagator.png
+Preparing to process Jumbo_Cactuar	8	8	4	4	7	./img/TTJumbo_Cactuar.png
+Loaded ./img/TTJumbo_Cactuar.png
+Preparing to process Tri-Point	8	5	2	8	7	./img/TTTri-Point.png
+Loaded ./img/TTTri-Point.png
+Preparing to process Gargantua	5	6	6	8	7	./img/TTGargantua.png
+Loaded ./img/TTGargantua.png
+Preparing to process Mobile_Type_8	8	6	7	3	7	./img/TTMobile_Type_8.png
+Loaded ./img/TTMobile_Type_8.png
+Preparing to process Sphinxara	8	3	5	8	7	./img/TTSphinxara.png
+Loaded ./img/TTSphinxara.png
+Preparing to process Tiamat	8	8	5	4	7	./img/TTTiamat.png
+Loaded ./img/TTTiamat.png
+Preparing to process BGH251F2	5	7	8	5	7	./img/TTBGH251F2.png
+Loaded ./img/TTBGH251F2.png
+Preparing to process Red_Giant	6	8	4	7	7	./img/TTRed_Giant.png
+Loaded ./img/TTRed_Giant.png
+Preparing to process Catoblepas	1	8	7	7	7	./img/TTCatoblepas.png
+Loaded ./img/TTCatoblepas.png
+Preparing to process Ultima_Weapon	7	7	2	8	7	./img/TTUltima_Weapon.png
+Loaded ./img/TTUltima_Weapon.png
+Preparing to process Chubby_Chocobo	4	4	8	9	8	./img/TTChubby_Chocobo.png
+Loaded ./img/TTChubby_Chocobo.png
+Preparing to process Angelo	9	6	7	3	8	./img/TTAngelo.png
+Loaded ./img/TTAngelo.png
+Preparing to process Gilgamesh	3	7	9	6	8	./img/TTGilgamesh.png
+Loaded ./img/TTGilgamesh.png
+Preparing to process MiniMog	9	3	9	2	8	./img/TTMiniMog.png
+Loaded ./img/TTMiniMog.png
+Preparing to process Chicobo	9	4	8	4	8	./img/TTChicobo.png
+Loaded ./img/TTChicobo.png
+Preparing to process Quezacotl	2	9	9	4	8	./img/TTQuezacotl.png
+Loaded ./img/TTQuezacotl.png
+Preparing to process Shiva	6	7	4	9	8	./img/TTShiva.png
+Loaded ./img/TTShiva.png
+Preparing to process Ifrit	9	6	2	8	8	./img/TTIfrit.png
+Loaded ./img/TTIfrit.png
+Preparing to process Siren	9	6	2	8	8	./img/TTSiren.png
+Loaded ./img/TTSiren.png
+Preparing to process Sacred	5	1	9	9	8	./img/TTSacred.png
+Loaded ./img/TTSacred.png
+Preparing to process Minotaur	9	9	2	5	8	./img/TTMinotaur.png
+Loaded ./img/TTMinotaur.png
+Preparing to process Carbuncle	8	4	10	4	9	./img/TTCarbuncle.png
+Loaded ./img/TTCarbuncle.png
+Preparing to process Diablos	5	10	8	3	9	./img/TTDiablos.png
+Loaded ./img/TTDiablos.png
+Preparing to process Leviathan	7	10	1	7	9	./img/TTLeviathan.png
+Loaded ./img/TTLeviathan.png
+Preparing to process Odin	8	10	3	5	9	./img/TTOdin.png
+Loaded ./img/TTOdin.png
+Preparing to process Pandemona	10	1	7	7	9	./img/TTPandemona.png
+Loaded ./img/TTPandemona.png
+Preparing to process Cerberus	7	4	6	10	9	./img/TTCerberus.png
+Loaded ./img/TTCerberus.png
+Preparing to process Alexander	9	10	4	2	9	./img/TTAlexander.png
+Loaded ./img/TTAlexander.png
+Preparing to process Phoenix	7	2	7	10	9	./img/TTPhoenix.png
+Loaded ./img/TTPhoenix.png
+Preparing to process Bahamut	10	8	2	6	9	./img/TTBahamut.png
+Loaded ./img/TTBahamut.png
+Preparing to process Doomtrain	3	1	10	10	9	./img/TTDoomtrain.png
+Loaded ./img/TTDoomtrain.png
+Preparing to process Eden	4	4	9	10	9	./img/TTEden.png
+Loaded ./img/TTEden.png
+Preparing to process Ward	10	7	2	8	10	./img/TTWard.png
+Loaded ./img/TTWard.png
+Preparing to process Kiros	6	7	6	10	10	./img/TTKiros.png
+Loaded ./img/TTKiros.png
+Preparing to process Laguna	5	10	3	9	10	./img/TTLaguna.png
+Loaded ./img/TTLaguna.png
+Preparing to process Selphie	10	8	4	6	10	./img/TTSelphie.png
+Loaded ./img/TTSelphie.png
+Preparing to process Quistis	9	6	10	2	10	./img/TTQuistis.png
+Loaded ./img/TTQuistis.png
+Preparing to process Irvine	2	6	9	10	10	./img/TTIrvine.png
+Loaded ./img/TTIrvine.png
+Preparing to process Zell	8	5	10	6	10	./img/TTZell.png
+Loaded ./img/TTZell.png
+Preparing to process Rinoa	4	10	2	10	10	./img/TTRinoa.png
+Loaded ./img/TTRinoa.png
+Preparing to process Edea	10	10	3	3	10	./img/TTEdea.png
+Loaded ./img/TTEdea.png
+Preparing to process Seifer	6	9	10	4	10	./img/TTSeifer.png
+Loaded ./img/TTSeifer.png
+Preparing to process Squall	10	10	9	6	10	./img/TTSquall.png
+Loaded ./img/TTSquall.png
+No errors reported
+Performing attack for square 7 for player 2
+Performing attack for square 6 for player 1
+	Attacking right.  6 vs 2.  Owner of card is player 1
+Performing attack for square 0 for player 2

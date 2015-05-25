@@ -1,0 +1,20 @@
+﻿Build started 4/20/2015 8:54:52 PM.
+     1>Project "C:\Users\Jallen\Documents\Year 3 work\Final Year Project\tripleTriad\tripleTriad\Tetra.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\SDL" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp SDLFn.cpp Tetra.cpp
+         Tetra.cpp
+     1>c:\users\jallen\documents\year 3 work\final year project\tripletriad\tripletriad\tetra.cpp(39): warning C4101: 'j' : unreferenced local variable
+         SDLFn.cpp
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jallen\Documents\Year 3 work\Final Year Project\tripleTriad\tripleTriad\Debug\Tetra.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib" SDL.lib SDLmain.lib SDL_image.lib SDL_gfx.lib SDL_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jallen\Documents\Year 3 work\Final Year Project\tripleTriad\tripleTriad\Debug\Tetra.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jallen\Documents\Year 3 work\Final Year Project\tripleTriad\tripleTriad\Debug\Tetra.lib" /MACHINE:X86 Debug\main.obj
+         Debug\SDLFn.obj
+         Debug\Tetra.obj
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Tetra.vcxproj -> C:\Users\Jallen\Documents\Year 3 work\Final Year Project\tripleTriad\tripleTriad\Debug\Tetra.exe
+     1>Done Building Project "C:\Users\Jallen\Documents\Year 3 work\Final Year Project\tripleTriad\tripleTriad\Tetra.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.19
